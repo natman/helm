@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: 1.0.0
+description: A Helm chart for theses
+name: theses-front
+type: application
+version: 0.1.0
+
+...
+files:
+  theses-front-0.1.0.tgz: sha256:d1dac0999da26d4bdbfe203b920e021d11a9fb4473f35c604458885387f012c2
+-----BEGIN PGP SIGNATURE-----
+
+wsDcBAEBCgAQBQJlOnm9CRD2tioODcMqBwAA88YMAF3cJn9P3oqSgCijGqyM+bbA
+yV+jae8T3jSIj8pS/3wJcx5UMLJca7qHKAIATN/kPMgsmaGoOOHFZz/k4HTxC+TF
+vXGedAkxA+m8Lx0FItt1MoEBGzGiVckyoktK8SOoOwfugyl70dsmV1Tw5yRfPr6n
+z4dS27CtOwTtKTInr6NIOndzVEw2WMYvrz21Fhn1IJBDmNaY5lTunYs5yOTgRcBq
+ljwMf1UEj7xGW1eFLWIfJr0SIum10bsYxc9USQwZBcF//uA5RIPOkVTeFkymotgF
+2X4sBsbzh5WYOR+c21QoSghVl+OjcXTFS3W51RocBZZfEtHlK24STN4uQ7n9XRb1
+G6VkJRUSOf7/d8Hq0sNklpHuIRZmyUpOQLEdwex+5XwsieSD/QOObNTRO1viLtfK
+YJP6d4MtQihudNHvRm3KP9btOZJeagla6q13XbsbQWoeMWymxNJvG7jGpTFCNNm0
+lkLz9wGutcf7DVUarkTNo0UNNnr+2JPYi8JMXuh+/w==
+=U/je
+-----END PGP SIGNATURE-----
